@@ -1,0 +1,1917 @@
+[
+	{
+		"locale": "en",
+		"sample": "What was Gerber",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Back to Nature",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Danish",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Cobblestone",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Dave's Killer Bread",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Entenmann's",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Famous Amos",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Home Pride",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Hovis",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Keebler Company",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Kits",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was McVitie's",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Mother's Pride",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Nabisco",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Nature's Own",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Newman's Own",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Pepperidge Farm",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Roman Meal",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Sunbeam Bread",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Tastykake",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Warburtons",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Westminster Cracker Company",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Wonder Bread",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Baskin Robbins",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Betty Crocker",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Cadbury Cake Bars",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Cadbury Highlights",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Dunkin' Donuts",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Krispy Kreme",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Lady M",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Mars Muffin (McVitie's)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was McVitie's",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Mr Kipling",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Secret Recipe",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was 5-4-3-2-1",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Arnott",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Blue Riband",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Burton's",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Cadbury Caramel Crunch",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Cadbury Fingers",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Cadbury Snack",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Cadbury Snaps",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Chips Ahoy!",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Famous Amos",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Fox's Biscuits",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was HobNob",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Jaffa Cakes",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Kinder",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Kit Kat",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Kits",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Loacker",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Newman's Own",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Oreo",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Taxi",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Tim Tam (biscuit)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Tracker",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was United Biscuits",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Walkers Shortbread",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Jacobs Cream Crackers",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Mini Cheddars",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Ritz",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Ry-Krisp",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Triscuit",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Wheat Thins",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Alpro – soy milk",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Carnation – instant breakfast",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Coca-Cola",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Horlicks",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Killer Shake",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Nesquik",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Nestlé Milo",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Ovaltine",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Pog",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Silk",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Swiss Miss – hot chocolate",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Mirinda",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Cream of Wheat",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Malt-O-Meal",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Maypo – oatmeal",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Quaker Oats Company",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Quaker Instant Oatmeal",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Scott's Porage Oats",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Ayam Brand",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Chef Boyardee",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Contadina",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Crosse & Blackwell",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Del Monte Foods",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Green Giant",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Heinz baked beans",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Hunt's",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Libby's",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Manwich",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Ro-Tel",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Spam",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Van Camp's",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Wolf Brand Chili",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Allde foods",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Andy Capp's fries",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Haldiram's Chips",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Apple Crings",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Barcel",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Bob The Builder's Cheesy Toolbag",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Brannigans",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Bugles (General Mills)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Cape Cod Potato Chips",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Cheese Flavoured Moments (Walkers)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Cheeselets",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Cheesy Tool Bag",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Cheetos",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Cheez Doodles",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Cheez-It",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Cheezies",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was CornNuts",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was David Sunflower Seeds",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Discos",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Doritos",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Farmer Brown's",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Fish fingers 'N ice cream",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Flamin' Hot Wotsits",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Football Crazy",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Frazzles (Walkers)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Frito-Lay",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Fritos",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Golden Wonder (Tayto Group)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Good 'n' Crunchy",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Griddles (KP Snacks)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Horror Bags",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Hula Hoops (KP Snacks)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Humdinger Pineapple Fruit Crisps",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Kettle Foods",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was KP Nuts (KP Snacks)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Kracks",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Kurkure",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Lay's Stax (Frito-Lay)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Mani",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was McCoys Crisps",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Meanies (KP Snacks)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Monster Munch – corn snack",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Munchos",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Nobby's Crisps",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Nobby's Nuts",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Outer Spacemen (KP Snacks)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Phileas Fogg",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Pik-Nik (shoestring potato)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Pirate's Booty",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Pringles (Kellogg Company)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Ringos (Golden Wonder)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Ruffles",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Salt 'n' Shake",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was San Nicasio",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Sky Divers (KP Snacks)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Snapz Crisps",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Space Raiders (KP Snacks)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Squares",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Sun Chips",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Super Crunchies",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Smith's Crisps",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was The Smith's Snackfood Company",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Tayto Fusion",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Tudor Crisps",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Twiglets (United Biscuits)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Twisties",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Tyrrells",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Tyrrells Apple Chips",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Walkers Crisps (Walkers)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Walkers Cheese Heads",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Walkers Lites",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Walkers Potato Heads",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Walkers Sensations",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Walkers Shots",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Whale Bones",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Wheat Crunchies",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Wickers",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Wigwams",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Wise Foods",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Wotsits (Walkers)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Yorkshire Crisps",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Alta Dena",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Amul",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Borden",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Broughton Foods Company",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Chivers",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Country Dale Milk",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Eagle Brand",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Garelick Farms",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Horizon Organic",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Iran Dairy Industries Co.",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Louis Trauth Dairy",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Mayfield Dairy",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Meadow Gold Dairies (Hawaii)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Purity Dairies",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Reddi-wip",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Selecta",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was T. G. Lee Dairy",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Tuscan Dairy Farms",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was almarai",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Alpine Lace",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Borden",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Cheez Whiz",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Easy Cheese",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Eden",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Gossner Foods",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Kraft",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Palmetto Cheese",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Sargento",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Velveeta",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Hope's Kitchen",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Neco Foods",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Egg Beaters",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Jack's Catch",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Kardomah",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Moorhouse's",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Nelsons's",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was St Nicholas",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Smedley's",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Banquet",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Findus",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Freezer Queen",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was FRoSTA",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Marie Callender's",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Dennis' Horseradish",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Master Foods horseradish",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Ambrosia",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Angel Delight",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Ben & Jerry's",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Bird's Custard",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Bounty ice cream",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Calypso Icicles Freezepops",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Cremosa",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Eskimo",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Gü",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Häagen-Dazs",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Magnolia",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Magnum",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Müller Rice",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Pehmis",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Pingviini",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Rocket",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Selecta",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Solero",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Superhappy Fruit Lolly",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Tongue Twister",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Topps Triple Power Push Pop",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Unibev Frooters Ice Batons",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Unibev Ice Zone",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Wall's",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Walls Cornetto",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Walls Vienetta",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Walls Vienetta Brownie",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Armour",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Butterball",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Frank 'n Stuff",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Gorton's of Gloucester",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Gwaltney",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Hebrew National",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Hormel",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Jennie-O – turkey products",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Jimmy Dean",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Libby's",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Omaha Steaks",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Oscar Mayer",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Spam",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Treat Meat",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Wall's sausages",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Becel",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Bertolli",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Blue Bonnet",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Country Crock",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Flora",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was I Can't Believe It's Not Butter!",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Imperial Margarine",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Land O'Lakes",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was PAM",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Parkay",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Rafhan",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Sana",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Spry Vegetable Shortening",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Stork",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Wesson cooking oil",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Branston",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Crosse & Blackwell",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Sarson's",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Datu Puti",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Dufrais (vinegar)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Haywards",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Maille",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was VIMAL",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Vlasic Pickles",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Beerenberg Farm (Australia)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Chicken Tonight",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Harrisons sauces",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Hayward's",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Loyd Grossman sauces",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Prego",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Ragú",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Alpro",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Eden Foods Inc.",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Gale's",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Hartley's",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Rafhan",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Rose's",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Tiptree (jam, marmalade, sauce, chutney, mustard, honey, lemon curd, Christmas pudding)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Suebee (honey)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Nutella",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Peter Pan (peanut butter)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Skippy (peanut butter)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Squirrel (peanut butter)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Sun-Pat (peanut butter)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Teddie (peanut butter)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was JIF (peanut butter)",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Basil Brush",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Cauldron",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Chicago Town",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Conimex",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Continental",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Findus",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was The Halal Pie Company",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Healthy Choice",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Heinz",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Hunt's Snack Pack – pudding",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Kozy Shack – pudding",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was La Choy",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Mr Greedy Mini Hot Dogs",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Mrs. Grass",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Swiss Miss – pudding",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Waistline",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Weight Watchers",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Jack's Catch",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Kabs - jerky",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Peperami – pork sausage snack",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Pocky",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Slim Jim",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Act II",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Jiffy Pop",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Orville Redenbacher's",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Smartfood",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Cracker Jack",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Crunch 'n Munch",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Fiddle Faddle",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Poppycock",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Screaming Yellow Zonkers",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Batchelor's Super Noodles",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Campbells",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Continental",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Cup-a-soup",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Cup Noodles",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Heinz",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Hamburger Helper",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Hope's Kitchen",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Knorr",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Kraft Dinner",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Maggi",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Mrs. Grass",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Neco Foods",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Pot Noodle",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Progresso",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Sapporo Ichiban",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Super Noodles",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Unilever Posh Noodle",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Wyler's",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Fleischmann's Yeast",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Altu Cranberry and Boysenberry Food Bar",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Aoste Snack Chorizo",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Atkins Morning Shine",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Bare Necessities Organic Vegetables",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Bernard Matthews",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was The Best",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Birds",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Carbolite",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Farmhouse Fare",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was General Mills",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Ginsters",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Jel Sert",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Quorn",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was ReaLemon",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Slim Fast",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Smash",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Square Pie",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Stretch Island Fruit Company",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Stretch Island Fruit Leather",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Walker's Nobby's Cuts",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Wall's - sausages and pies",
+		"intent": "questions.whatwas"
+	},
+	{
+		"locale": "en",
+		"sample": "What was Wild Chips",
+		"intent": "questions.whatwas"
+	}
+]

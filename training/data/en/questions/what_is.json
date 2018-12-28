@@ -1,0 +1,3832 @@
+[
+	{
+		"locale": "en",
+		"sample": "What is Gerber",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Back to Nature",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Danish",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Cobblestone",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Dave's Killer Bread",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Entenmann's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Famous Amos",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Home Pride",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Hovis",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Keebler Company",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Kits",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is McVitie's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Mother's Pride",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Nabisco",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Nature's Own",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Newman's Own",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Pepperidge Farm",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Roman Meal",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Sunbeam Bread",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Tastykake",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Warburtons",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Westminster Cracker Company",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Wonder Bread",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Baskin Robbins",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Betty Crocker",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Cadbury Cake Bars",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Cadbury Highlights",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Dunkin' Donuts",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Krispy Kreme",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Lady M",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Mars Muffin (McVitie's)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is McVitie's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Mr Kipling",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Secret Recipe",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is 5-4-3-2-1",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Arnott",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Blue Riband",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Burton's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Cadbury Caramel Crunch",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Cadbury Fingers",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Cadbury Snack",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Cadbury Snaps",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Chips Ahoy!",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Famous Amos",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Fox's Biscuits",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is HobNob",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Jaffa Cakes",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Kinder",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Kit Kat",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Kits",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Loacker",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Newman's Own",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Oreo",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Taxi",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Tim Tam (biscuit)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Tracker",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is United Biscuits",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Walkers Shortbread",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Jacobs Cream Crackers",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Mini Cheddars",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Ritz",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Ry-Krisp",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Triscuit",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Wheat Thins",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Alpro – soy milk",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Carnation – instant breakfast",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Coca-Cola",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Horlicks",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Killer Shake",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Nesquik",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Nestlé Milo",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Ovaltine",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Pog",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Silk",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Swiss Miss – hot chocolate",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Mirinda",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Cream of Wheat",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Malt-O-Meal",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Maypo – oatmeal",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Quaker Oats Company",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Quaker Instant Oatmeal",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Scott's Porage Oats",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Ayam Brand",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Chef Boyardee",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Contadina",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Crosse & Blackwell",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Del Monte Foods",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Green Giant",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Heinz baked beans",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Hunt's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Libby's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Manwich",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Ro-Tel",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Spam",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Van Camp's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Wolf Brand Chili",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Allde foods",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Andy Capp's fries",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Haldiram's Chips",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Apple Crings",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Barcel",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Bob The Builder's Cheesy Toolbag",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Brannigans",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Bugles (General Mills)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Cape Cod Potato Chips",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Cheese Flavoured Moments (Walkers)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Cheeselets",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Cheesy Tool Bag",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Cheetos",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Cheez Doodles",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Cheez-It",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Cheezies",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is CornNuts",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is David Sunflower Seeds",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Discos",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Doritos",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Farmer Brown's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Fish fingers 'N ice cream",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Flamin' Hot Wotsits",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Football Crazy",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Frazzles (Walkers)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Frito-Lay",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Fritos",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Golden Wonder (Tayto Group)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Good 'n' Crunchy",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Griddles (KP Snacks)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Horror Bags",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Hula Hoops (KP Snacks)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Humdinger Pineapple Fruit Crisps",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Kettle Foods",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is KP Nuts (KP Snacks)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Kracks",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Kurkure",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Lay's Stax (Frito-Lay)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Mani",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is McCoys Crisps",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Meanies (KP Snacks)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Monster Munch – corn snack",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Munchos",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Nobby's Crisps",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Nobby's Nuts",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Outer Spacemen (KP Snacks)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Phileas Fogg",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Pik-Nik (shoestring potato)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Pirate's Booty",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Pringles (Kellogg Company)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Ringos (Golden Wonder)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Ruffles",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Salt 'n' Shake",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is San Nicasio",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Sky Divers (KP Snacks)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Snapz Crisps",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Space Raiders (KP Snacks)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Squares",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Sun Chips",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Super Crunchies",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Smith's Crisps",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is The Smith's Snackfood Company",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Tayto Fusion",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Tudor Crisps",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Twiglets (United Biscuits)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Twisties",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Tyrrells",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Tyrrells Apple Chips",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Walkers Crisps (Walkers)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Walkers Cheese Heads",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Walkers Lites",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Walkers Potato Heads",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Walkers Sensations",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Walkers Shots",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Whale Bones",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Wheat Crunchies",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Wickers",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Wigwams",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Wise Foods",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Wotsits (Walkers)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Yorkshire Crisps",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Alta Dena",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Amul",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Borden",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Broughton Foods Company",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Chivers",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Country Dale Milk",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Eagle Brand",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Garelick Farms",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Horizon Organic",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Iran Dairy Industries Co.",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Louis Trauth Dairy",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Mayfield Dairy",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Meadow Gold Dairies (Hawaii)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Purity Dairies",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Reddi-wip",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Selecta",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is T. G. Lee Dairy",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Tuscan Dairy Farms",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is almarai",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Alpine Lace",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Borden",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Cheez Whiz",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Easy Cheese",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Eden",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Gossner Foods",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Kraft",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Palmetto Cheese",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Sargento",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Velveeta",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Hope's Kitchen",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Neco Foods",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Egg Beaters",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Jack's Catch",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Kardomah",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Moorhouse's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Nelsons's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is St Nicholas",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Smedley's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Banquet",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Findus",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Freezer Queen",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is FRoSTA",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Marie Callender's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Dennis' Horseradish",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Master Foods horseradish",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Ambrosia",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Angel Delight",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Ben & Jerry's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Bird's Custard",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Bounty ice cream",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Calypso Icicles Freezepops",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Cremosa",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Eskimo",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Gü",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Häagen-Dazs",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Magnolia",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Magnum",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Müller Rice",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Pehmis",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Pingviini",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Rocket",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Selecta",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Solero",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Superhappy Fruit Lolly",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Tongue Twister",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Topps Triple Power Push Pop",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Unibev Frooters Ice Batons",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Unibev Ice Zone",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Wall's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Walls Cornetto",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Walls Vienetta",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Walls Vienetta Brownie",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Armour",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Butterball",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Frank 'n Stuff",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Gorton's of Gloucester",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Gwaltney",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Hebrew National",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Hormel",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Jennie-O – turkey products",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Jimmy Dean",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Libby's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Omaha Steaks",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Oscar Mayer",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Spam",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Treat Meat",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Wall's sausages",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Becel",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Bertolli",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Blue Bonnet",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Country Crock",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Flora",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is I Can't Believe It's Not Butter!",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Imperial Margarine",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Land O'Lakes",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is PAM",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Parkay",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Rafhan",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Sana",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Spry Vegetable Shortening",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Stork",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Wesson cooking oil",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Branston",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Crosse & Blackwell",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Sarson's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Datu Puti",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Dufrais (vinegar)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Haywards",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Maille",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is VIMAL",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Vlasic Pickles",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Beerenberg Farm (Australia)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Chicken Tonight",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Harrisons sauces",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Hayward's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Loyd Grossman sauces",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Prego",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Ragú",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Alpro",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Eden Foods Inc.",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Gale's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Hartley's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Rafhan",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Rose's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Tiptree (jam, marmalade, sauce, chutney, mustard, honey, lemon curd, Christmas pudding)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Suebee (honey)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Nutella",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Peter Pan (peanut butter)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Skippy (peanut butter)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Squirrel (peanut butter)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Sun-Pat (peanut butter)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Teddie (peanut butter)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is JIF (peanut butter)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Basil Brush",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Cauldron",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Chicago Town",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Conimex",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Continental",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Findus",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is The Halal Pie Company",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Healthy Choice",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Heinz",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Hunt's Snack Pack – pudding",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Kozy Shack – pudding",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is La Choy",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Mr Greedy Mini Hot Dogs",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Mrs. Grass",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Swiss Miss – pudding",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Waistline",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Weight Watchers",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Jack's Catch",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Kabs - jerky",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Peperami – pork sausage snack",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Pocky",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Slim Jim",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Act II",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Jiffy Pop",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Orville Redenbacher's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Smartfood",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Cracker Jack",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Crunch 'n Munch",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Fiddle Faddle",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Poppycock",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Screaming Yellow Zonkers",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Batchelor's Super Noodles",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Campbells",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Continental",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Cup-a-soup",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Cup Noodles",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Heinz",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Hamburger Helper",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Hope's Kitchen",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Knorr",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Kraft Dinner",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Maggi",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Mrs. Grass",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Neco Foods",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Pot Noodle",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Progresso",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Sapporo Ichiban",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Super Noodles",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Unilever Posh Noodle",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Wyler's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Fleischmann's Yeast",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Altu Cranberry and Boysenberry Food Bar",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Aoste Snack Chorizo",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Atkins Morning Shine",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Bare Necessities Organic Vegetables",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Bernard Matthews",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is The Best",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Birds",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Carbolite",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Farmhouse Fare",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is General Mills",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Ginsters",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Jel Sert",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Quorn",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is ReaLemon",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Slim Fast",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Smash",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Square Pie",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Stretch Island Fruit Company",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Stretch Island Fruit Leather",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Walker's Nobby's Cuts",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Wall's - sausages and pies",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "What is Wild Chips",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Gerber",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Back to Nature",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Danish",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Cobblestone",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Dave's Killer Bread",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Entenmann's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Famous Amos",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Home Pride",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Hovis",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Keebler Company",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Kits",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats McVitie's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Mother's Pride",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Nabisco",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Nature's Own",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Newman's Own",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Pepperidge Farm",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Roman Meal",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Sunbeam Bread",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Tastykake",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Warburtons",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Westminster Cracker Company",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Wonder Bread",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Baskin Robbins",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Betty Crocker",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Cadbury Cake Bars",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Cadbury Highlights",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Dunkin' Donuts",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Krispy Kreme",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Lady M",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Mars Muffin (McVitie's)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats McVitie's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Mr Kipling",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Secret Recipe",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats 5-4-3-2-1",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Arnott",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Blue Riband",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Burton's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Cadbury Caramel Crunch",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Cadbury Fingers",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Cadbury Snack",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Cadbury Snaps",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Chips Ahoy!",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Famous Amos",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Fox's Biscuits",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats HobNob",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Jaffa Cakes",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Kinder",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Kit Kat",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Kits",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Loacker",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Newman's Own",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Oreo",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Taxi",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Tim Tam (biscuit)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Tracker",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats United Biscuits",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Walkers Shortbread",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Jacobs Cream Crackers",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Mini Cheddars",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Ritz",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Ry-Krisp",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Triscuit",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Wheat Thins",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Alpro – soy milk",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Carnation – instant breakfast",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Coca-Cola",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Horlicks",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Killer Shake",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Nesquik",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Nestlé Milo",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Ovaltine",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Pog",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Silk",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Swiss Miss – hot chocolate",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Mirinda",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Cream of Wheat",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Malt-O-Meal",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Maypo – oatmeal",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Quaker Oats Company",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Quaker Instant Oatmeal",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Scott's Porage Oats",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Ayam Brand",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Chef Boyardee",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Contadina",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Crosse & Blackwell",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Del Monte Foods",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Green Giant",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Heinz baked beans",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Hunt's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Libby's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Manwich",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Ro-Tel",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Spam",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Van Camp's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Wolf Brand Chili",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Allde foods",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Andy Capp's fries",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Haldiram's Chips",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Apple Crings",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Barcel",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Bob The Builder's Cheesy Toolbag",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Brannigans",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Bugles (General Mills)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Cape Cod Potato Chips",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Cheese Flavoured Moments (Walkers)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Cheeselets",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Cheesy Tool Bag",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Cheetos",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Cheez Doodles",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Cheez-It",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Cheezies",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats CornNuts",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats David Sunflower Seeds",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Discos",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Doritos",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Farmer Brown's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Fish fingers 'N ice cream",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Flamin' Hot Wotsits",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Football Crazy",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Frazzles (Walkers)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Frito-Lay",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Fritos",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Golden Wonder (Tayto Group)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Good 'n' Crunchy",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Griddles (KP Snacks)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Horror Bags",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Hula Hoops (KP Snacks)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Humdinger Pineapple Fruit Crisps",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Kettle Foods",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats KP Nuts (KP Snacks)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Kracks",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Kurkure",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Lay's Stax (Frito-Lay)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Mani",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats McCoys Crisps",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Meanies (KP Snacks)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Monster Munch – corn snack",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Munchos",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Nobby's Crisps",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Nobby's Nuts",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Outer Spacemen (KP Snacks)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Phileas Fogg",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Pik-Nik (shoestring potato)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Pirate's Booty",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Pringles (Kellogg Company)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Ringos (Golden Wonder)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Ruffles",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Salt 'n' Shake",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats San Nicasio",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Sky Divers (KP Snacks)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Snapz Crisps",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Space Raiders (KP Snacks)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Squares",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Sun Chips",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Super Crunchies",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Smith's Crisps",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats The Smith's Snackfood Company",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Tayto Fusion",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Tudor Crisps",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Twiglets (United Biscuits)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Twisties",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Tyrrells",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Tyrrells Apple Chips",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Walkers Crisps (Walkers)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Walkers Cheese Heads",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Walkers Lites",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Walkers Potato Heads",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Walkers Sensations",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Walkers Shots",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Whale Bones",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Wheat Crunchies",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Wickers",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Wigwams",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Wise Foods",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Wotsits (Walkers)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Yorkshire Crisps",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Alta Dena",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Amul",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Borden",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Broughton Foods Company",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Chivers",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Country Dale Milk",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Eagle Brand",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Garelick Farms",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Horizon Organic",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Iran Dairy Industries Co.",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Louis Trauth Dairy",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Mayfield Dairy",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Meadow Gold Dairies (Hawaii)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Purity Dairies",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Reddi-wip",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Selecta",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats T. G. Lee Dairy",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Tuscan Dairy Farms",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats almarai",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Alpine Lace",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Borden",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Cheez Whiz",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Easy Cheese",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Eden",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Gossner Foods",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Kraft",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Palmetto Cheese",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Sargento",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Velveeta",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Hope's Kitchen",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Neco Foods",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Egg Beaters",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Jack's Catch",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Kardomah",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Moorhouse's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Nelsons's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats St Nicholas",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Smedley's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Banquet",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Findus",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Freezer Queen",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats FRoSTA",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Marie Callender's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Dennis' Horseradish",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Master Foods horseradish",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Ambrosia",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Angel Delight",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Ben & Jerry's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Bird's Custard",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Bounty ice cream",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Calypso Icicles Freezepops",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Cremosa",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Eskimo",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Gü",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Häagen-Dazs",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Magnolia",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Magnum",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Müller Rice",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Pehmis",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Pingviini",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Rocket",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Selecta",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Solero",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Superhappy Fruit Lolly",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Tongue Twister",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Topps Triple Power Push Pop",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Unibev Frooters Ice Batons",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Unibev Ice Zone",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Wall's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Walls Cornetto",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Walls Vienetta",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Walls Vienetta Brownie",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Armour",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Butterball",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Frank 'n Stuff",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Gorton's of Gloucester",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Gwaltney",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Hebrew National",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Hormel",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Jennie-O – turkey products",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Jimmy Dean",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Libby's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Omaha Steaks",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Oscar Mayer",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Spam",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Treat Meat",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Wall's sausages",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Becel",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Bertolli",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Blue Bonnet",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Country Crock",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Flora",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats I Can't Believe It's Not Butter!",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Imperial Margarine",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Land O'Lakes",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats PAM",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Parkay",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Rafhan",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Sana",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Spry Vegetable Shortening",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Stork",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Wesson cooking oil",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Branston",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Crosse & Blackwell",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Sarson's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Datu Puti",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Dufrais (vinegar)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Haywards",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Maille",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats VIMAL",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Vlasic Pickles",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Beerenberg Farm (Australia)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Chicken Tonight",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Harrisons sauces",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Hayward's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Loyd Grossman sauces",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Prego",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Ragú",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Alpro",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Eden Foods Inc.",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Gale's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Hartley's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Rafhan",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Rose's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Tiptree (jam, marmalade, sauce, chutney, mustard, honey, lemon curd, Christmas pudding)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Suebee (honey)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Nutella",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Peter Pan (peanut butter)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Skippy (peanut butter)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Squirrel (peanut butter)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Sun-Pat (peanut butter)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Teddie (peanut butter)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats JIF (peanut butter)",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Basil Brush",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Cauldron",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Chicago Town",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Conimex",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Continental",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Findus",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats The Halal Pie Company",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Healthy Choice",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Heinz",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Hunt's Snack Pack – pudding",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Kozy Shack – pudding",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats La Choy",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Mr Greedy Mini Hot Dogs",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Mrs. Grass",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Swiss Miss – pudding",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Waistline",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Weight Watchers",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Jack's Catch",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Kabs - jerky",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Peperami – pork sausage snack",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Pocky",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Slim Jim",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Act II",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Jiffy Pop",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Orville Redenbacher's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Smartfood",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Cracker Jack",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Crunch 'n Munch",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Fiddle Faddle",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Poppycock",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Screaming Yellow Zonkers",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Batchelor's Super Noodles",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Campbells",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Continental",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Cup-a-soup",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Cup Noodles",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Heinz",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Hamburger Helper",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Hope's Kitchen",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Knorr",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Kraft Dinner",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Maggi",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Mrs. Grass",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Neco Foods",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Pot Noodle",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Progresso",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Sapporo Ichiban",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Super Noodles",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Unilever Posh Noodle",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Wyler's",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Fleischmann's Yeast",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Altu Cranberry and Boysenberry Food Bar",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Aoste Snack Chorizo",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Atkins Morning Shine",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Bare Necessities Organic Vegetables",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Bernard Matthews",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats The Best",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Birds",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Carbolite",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Farmhouse Fare",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats General Mills",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Ginsters",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Jel Sert",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Quorn",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats ReaLemon",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Slim Fast",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Smash",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Square Pie",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Stretch Island Fruit Company",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Stretch Island Fruit Leather",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Walker's Nobby's Cuts",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Wall's - sausages and pies",
+		"intent": "questions.whatis"
+	},
+	{
+		"locale": "en",
+		"sample": "Whats Wild Chips",
+		"intent": "questions.whatis"
+	}
+]

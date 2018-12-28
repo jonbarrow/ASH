@@ -1,0 +1,17 @@
+[
+	{
+		"locale": "en",
+		"sample": "hello",
+		"intent": "greetings.hello"
+	},
+	{
+		"locale": "en",
+		"sample": "hi",
+		"intent": "greetings.hello"
+	},
+	{
+		"locale": "en",
+		"sample": "howdy",
+		"intent": "greetings.hello"
+	}
+]

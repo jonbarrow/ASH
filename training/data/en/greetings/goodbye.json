@@ -1,0 +1,27 @@
+[
+	{
+		"locale": "en",
+		"sample": "goodbye for now",
+		"intent": "greetings.goodbye"
+	},
+	{
+		"locale": "en",
+		"sample": "bye bye take care",
+		"intent": "greetings.goodbye"
+	},
+	{
+		"locale": "en",
+		"sample": "okay see you later",
+		"intent": "greetings.goodbye"
+	},
+	{
+		"locale": "en",
+		"sample": "bye for now",
+		"intent": "greetings.goodbye"
+	},
+	{
+		"locale": "en",
+		"sample": "i must go",
+		"intent": "greetings.goodbye"
+	}
+]

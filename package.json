@@ -1,0 +1,22 @@
+{
+  "name": "ash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint .",
+    "lint-fix": "./node_modules/.bin/eslint . --fix",
+    "train": "node ./training/train"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compromise": "^11.12.4",
+    "node-nlp": "^2.3.0",
+    "wtf_wikipedia": "^7.2.6"
+  },
+  "devDependencies": {
+    "eslint": "^5.11.1"
+  }
+}

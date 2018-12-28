@@ -1,0 +1,9 @@
+{
+	"lanuage": "en",
+	"model_path": "./training/model.nlp",
+	"manager": {
+		"languages": [
+			"en"
+		]
+	}
+}
