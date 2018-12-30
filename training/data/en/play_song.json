@@ -1,0 +1,102 @@
+[
+	{
+		"locale": "en",
+		"sample": "play Four tet - unspoken",
+		"intent": "playsong"
+	},
+	{
+		"locale": "en",
+		"sample": "play Cuban Link(ft tony sunshine) - still tellin lies",
+		"intent": "playsong"
+	},
+	{
+		"locale": "en",
+		"sample": "play Sounds of nature - song of the humpback whale",
+		"intent": "playsong"
+	},
+	{
+		"locale": "en",
+		"sample": "play Yojimbo - Bodyguard Sale",
+		"intent": "playsong"
+	},
+	{
+		"locale": "en",
+		"sample": "play Somatic Responses and Christoph Fringeli_Llancaiach fawr",
+		"intent": "playsong"
+	},
+	{
+		"locale": "en",
+		"sample": "play Less than jake - one last cigarette",
+		"intent": "playsong"
+	},
+	{
+		"locale": "en",
+		"sample": "play Michael Hoenig - Safe in beregost",
+		"intent": "playsong"
+	},
+	{
+		"locale": "en",
+		"sample": "play Everything but the girl - to cry about ",
+		"intent": "playsong"
+	},
+	{
+		"locale": "en",
+		"sample": "play Underworld - Push Downstairs",
+		"intent": "playsong"
+	},
+	{
+		"locale": "en",
+		"sample": "play Martin O`Donnell - What Once Was Lost",
+		"intent": "playsong"
+	},
+	{
+		"locale": "en",
+		"sample": "play Cassandra Wilson - Crazy",
+		"intent": "playsong"
+	},
+	{
+		"locale": "en",
+		"sample": "play John Williams - The Search for the Blue Fairy",
+		"intent": "playsong"
+	},
+	{
+		"locale": "en",
+		"sample": "play Client Mansell ( featuring Kronos Quartet ) - Ghosts",
+		"intent": "playsong"
+	},
+	{
+		"locale": "en",
+		"sample": "play Supergrass - pumping on your stereo (live)",
+		"intent": "playsong"
+	},
+	{
+		"locale": "en",
+		"sample": "play poison the well - sticks and stones never made sense",
+		"intent": "playsong"
+	},
+	{
+		"locale": "en",
+		"sample": "play Freaky Chakra vs Single Cell Orchestra - Lurking",
+		"intent": "playsong"
+	},
+	{
+		"locale": "en",
+		"sample": "play Ennio Morricone - Contamination",
+		"intent": "playsong"
+	},
+	{
+		"locale": "en",
+		"sample": "play Johnny Klimek & Reinhold Heil - Five Customers",
+		"intent": "playsong"
+	},
+	{
+		"locale": "en",
+		"sample": "play Nina Simone - Why ( the king of love is dead )",
+		"intent": "playsong"
+	},
+	{
+		"locale": "en",
+		"sample": "play Howard shore - Castle Keep",
+		"intent": "playsong"
+	}
+]

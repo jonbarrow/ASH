@@ -2,7 +2,7 @@ const { NlpManager } = require('node-nlp');
 const config = require('../config');
 const trainingData = require('./data');
 
-const manager = new NlpManager(config.manager);
+const manager = new NlpManager(config.nlpManager);
 
 for (const data of trainingData) {
 	manager.addDocument(data.locale, data.sample, data.intent);

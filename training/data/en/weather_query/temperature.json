@@ -1,0 +1,52 @@
+[
+	{
+		"locale": "en",
+		"sample": "is it cold out",
+		"intent": "weatherquery.temperature"
+	},
+	{
+		"locale": "en",
+		"sample": "is it hot",
+		"intent": "weatherquery.temperature"
+	},
+	{
+		"locale": "en",
+		"sample": "how hot is it",
+		"intent": "weatherquery.temperature"
+	},
+	{
+		"locale": "en",
+		"sample": "how cold is it",
+		"intent": "weatherquery.temperature"
+	},
+	{
+		"locale": "en",
+		"sample": "whats the temperature",
+		"intent": "weatherquery.temperature"
+	},
+	{
+		"locale": "en",
+		"sample": "whats the temperature right now",
+		"intent": "weatherquery.temperature"
+	},
+	{
+		"locale": "en",
+		"sample": "whats the temperature outside",
+		"intent": "weatherquery.temperature"
+	},
+	{
+		"locale": "en",
+		"sample": "what is the temperature",
+		"intent": "weatherquery.temperature"
+	},
+	{
+		"locale": "en",
+		"sample": "what is the temperature right now",
+		"intent": "weatherquery.temperature"
+	},
+	{
+		"locale": "en",
+		"sample": "what is the temperature outside",
+		"intent": "weatherquery.temperature"
+	}
+]

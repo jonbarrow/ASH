@@ -1,0 +1,42 @@
+[
+	{
+		"locale": "en",
+		"sample": "whats the weather like",
+		"intent": "weatherquery.forecast"
+	},
+	{
+		"locale": "en",
+		"sample": "what is the weather",
+		"intent": "weatherquery.forecast"
+	},
+	{
+		"locale": "en",
+		"sample": "hows the weather",
+		"intent": "weatherquery.forecast"
+	},
+	{
+		"locale": "en",
+		"sample": "whats it look like outside",
+		"intent": "weatherquery.forecast"
+	},
+	{
+		"locale": "en",
+		"sample": "is it raining",
+		"intent": "weatherquery.forecast"
+	},
+	{
+		"locale": "en",
+		"sample": "will it rain",
+		"intent": "weatherquery.forecast"
+	},
+	{
+		"locale": "en",
+		"sample": "whats the forecast",
+		"intent": "weatherquery.forecast"
+	},
+	{
+		"locale": "en",
+		"sample": "is it sunny",
+		"intent": "weatherquery.forecast"
+	}
+]

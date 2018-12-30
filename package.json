@@ -13,8 +13,16 @@
   "license": "ISC",
   "dependencies": {
     "compromise": "^11.12.4",
+    "ffmpeg-static": "^2.4.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "got": "^9.5.0",
+    "lame": "^1.2.4",
     "node-nlp": "^2.3.0",
-    "wtf_wikipedia": "^7.2.6"
+    "say": "^0.15.0",
+    "speaker": "^0.4.1",
+    "wtf_wikipedia": "^7.2.6",
+    "youtube-search": "^1.1.4",
+    "ytdl-core": "^0.28.3"
   },
   "devDependencies": {
     "eslint": "^5.11.1"

@@ -1,7 +1,8 @@
 {
+	"youtube_data_api_key": "apikey",
 	"lanuage": "en",
 	"model_path": "./training/model.nlp",
-	"manager": {
+	"nlpManager": {
 		"languages": [
 			"en"
 		]

@@ -1,0 +1,1 @@
+To play music you need a YouTube API key. You can register one here [https://developers.google.com/youtube/v3/getting-started](https://developers.google.com/youtube/v3/getting-started)
